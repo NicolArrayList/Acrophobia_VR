@@ -107,7 +107,7 @@ Material:
     - _ContrastDetailMap: 0
     - _ContrastTransparentMap: 0
     - _Cull: 0
-    - _Cutoff: 0.469
+    - _Cutoff: 0
     - _DetailAlbedoMapScale: 1
     - _DetailBrightness: 1
     - _DetailGlossiness: 0.5
